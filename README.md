@@ -1,5 +1,5 @@
 # Identity-between-nested-sum-and-power-sum-Personal-rediscovery
-Personal discovery of an identity connecting power sums with nested sums of lower powers (Might already been discovered but not as well known)
+Personal discovery of an identity connecting power sums with nested sums of lower powers (May already be known, but not widely recognized in this form)
 
 ## License
 
